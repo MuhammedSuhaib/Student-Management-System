@@ -74,7 +74,7 @@ let studentList: Student[] = [];
         feesAmount
       )
     );
-    console.log(chalk.bold.greenBright("Student enrolled successfully!"));
+    console.log(chalk.bold.greenBright("Student enrolled successfully!! 🎊"));
 
   } else if (takeData.option === "show status") {
     console.log(chalk.bold.magenta("Current Students List:"));

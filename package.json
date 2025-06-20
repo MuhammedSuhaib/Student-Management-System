@@ -1,6 +1,6 @@
 {
   "name": "@muhammed_suhaib/student_management_system",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
